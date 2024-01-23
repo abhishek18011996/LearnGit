@@ -7,6 +7,5 @@ public class ClassOne {
         System.out.println("Class Three commit");
          System.out.println("Class Four commit");
         System.out.println("Class Fifth commit");
-        System.out.println("Class Fifth commit");
     }
 }
